@@ -4,7 +4,7 @@
 
 I'm a Computer Science student based in Nagpur, India, interested in Artificial Intelligence, Machine Learning, and software development.
 
-I enjoy building applications that connect frontend interfaces, backend logic, and databases. I'm currently strengthening my Python and machine learning skills through hands-on projects.
+I'm exploring machine learning through hands-on projects while building practical applications that solve real-world problems.
 
 ### Technical Skills
 
